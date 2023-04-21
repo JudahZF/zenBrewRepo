@@ -6,5 +6,5 @@
 	"Type": "DirectRun",
 	"Script Type": "Run",
 	"Script": "test.py",
-	"FileType": "py",
+	"FileType": "py"
 }
