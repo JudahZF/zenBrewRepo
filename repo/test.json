@@ -1,0 +1,12 @@
+{
+	"Name": "test",
+	"Identifier": "test",
+	"Description": "A test package",
+	"Author": "theSun",
+	"Package Location": "https://raw.githubusercontent.com/BlackIQ/Hello-World/main/Python/examples/python.py",
+	"Type": "DirectRun",
+	"Script Type": "Run",
+	"Script": "test.sh",
+	"FileType": "sh",
+	"AllowedInstallTypes": null
+}
