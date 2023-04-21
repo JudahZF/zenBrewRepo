@@ -3,7 +3,7 @@
 	"Identifier": "test",
 	"Description": "A test package",
 	"Author": "theSun",
-	"Package Location": "https://raw.githubusercontent.com/BlackIQ/Hello-World/main/Python/examples/python.py",
+	"Package Location": "https://github.com/MrRubberDucky99/zenBrewWeb/blob/main/repo/test.sh",
 	"Type": "DirectRun",
 	"Script Type": "Run",
 	"Script": "test.sh",
