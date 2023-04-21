@@ -1,12 +1,12 @@
 {
-	"Name": "Hello World",
-	"Identifier": "helloWorld",
+	"Name": "Test py",
+	"Identifier": "test-py",
 	"Description": "A test package",
-	"Author": "theSun",
+	"Author": "tester",
 	"Package Location": "https://raw.githubusercontent.com/BlackIQ/Hello-World/main/Python/examples/python.py",
 	"Type": "DirectRun",
 	"Script Type": "Run",
-	"Script": "helloWorld.py",
+	"Script": "test.py",
 	"FileType": "py",
 	"AllowedInstallTypes": null
 }
