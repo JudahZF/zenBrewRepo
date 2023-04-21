@@ -1,5 +1,4 @@
 {
-	"Name": "Test py",
 	"Identifier": "test-py",
 	"Description": "A test package",
 	"Author": "tester",
@@ -8,5 +7,4 @@
 	"Script Type": "Run",
 	"Script": "test.py",
 	"FileType": "py",
-	"AllowedInstallTypes": null
 }
