@@ -1,8 +1,8 @@
 {
-	"Name": "test",
-	"Identifier": "test",
+	"Name": "Test sh",
+	"Identifier": "test-sh",
 	"Description": "A test package",
-	"Author": "theSun",
+	"Author": "tester",
 	"Package Location": "https://github.com/MrRubberDucky99/zenBrewWeb/raw/main/repo/test.sh",
 	"Type": "DirectRun",
 	"Script Type": "Run",
