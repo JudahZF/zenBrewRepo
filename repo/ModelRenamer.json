@@ -1,0 +1,12 @@
+{
+	"Identifier": "Model-Renamer",
+	"Description": "Rename the default models to match the name of the device that they are based on",
+	"Author": "Thomas VanIseghem",
+	"FileType": "zip",
+	"versions": [
+		{
+			"id": "1.0.0",
+			"Location": "https://github.com/MrRubberDucky99/zenBrewWeb/raw/main/packages/ModelRenamer/ModelRenamer.zip"
+		}
+	]
+}

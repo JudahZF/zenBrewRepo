@@ -1,3 +1,2 @@
-File,, Identifier, Type
-testpy.json, test-py, DirectRun
-testsh.json, test-sh, DirectRun
+File, Identifier
+ModelRenamer.json, Model-Renamer
