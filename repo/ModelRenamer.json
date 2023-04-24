@@ -6,7 +6,11 @@
 	"versions": [
 		{
 			"id": "1.0.0",
-			"Location": "https://github.com/MrRubberDucky99/zenBrewWeb/raw/main/packages/ModelRenamer/ModelRenamer.zip"
+			"Location": "https://github.com/MrRubberDucky99/zenBrewWeb/raw/main/packages/ModelRenamer/",
+			"FileName": "ModelRenamer.zip",
+			"install": "",
+			"update": "",
+			"uninstall": ""
 		}
 	]
 }

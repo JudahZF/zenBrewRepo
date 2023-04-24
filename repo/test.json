@@ -1,0 +1,16 @@
+{
+	"Identifier": "test",
+	"Description": "test",
+	"Author": "test",
+	"FileType": "zip",
+	"versions": [
+		{
+			"id": "1.0.0",
+			"Location": "https://github.com/MrRubberDucky99/zenBrewWeb/raw/main/packages/test/",
+			"FileName": "test.zip",
+			"install": "",
+			"update": "",
+			"uninstall": ""
+		}
+	]
+}
