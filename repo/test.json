@@ -8,7 +8,7 @@
 			"id": "1.0.0",
 			"Location": "https://github.com/MrRubberDucky99/zenBrewWeb/raw/main/packages/test/",
 			"FileName": "test.tar.gz",
-			"install": "",
+			"install": "install.sh",
 			"update": "",
 			"uninstall": ""
 		}
