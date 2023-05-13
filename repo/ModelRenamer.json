@@ -1,5 +1,5 @@
 {
-	"Identifier": "Model-Renamer",
+	"Identifier": "ModelRenamer",
 	"Description": "Rename the default models to match the name of the device that they are based on",
 	"Author": "Thomas VanIseghem",
 	"FileType": "zip",
