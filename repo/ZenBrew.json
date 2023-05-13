@@ -1,0 +1,16 @@
+{
+	"Identifier": "ZenBrew",
+	"Description": "ZenBrew is a homebrew package manager for the quad cortex",
+	"Author": "Judah",
+	"FileType": "zip",
+	"versions": [
+		{
+			"id": "0.1.3",
+			"Location": "https://github.com/OpenCortex-Research/ZenBrew/releases/download/V0.1.3/",
+			"FileName": "ZenBrew-0_1_3.tar.gz",
+			"install": "install.sh",
+			"update": "update.sh",
+			"uninstall": "uninstall.sh"
+		}
+	]
+}
