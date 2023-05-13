@@ -9,8 +9,8 @@
 			"Location": "https://github.com/MrRubberDucky99/zenBrewWeb/raw/main/packages/test/",
 			"FileName": "test.tar.gz",
 			"install": "install.sh",
-			"update": "",
-			"uninstall": ""
+			"update": "update.sh",
+			"uninstall": "uninstall.sh"
 		}
 	]
 }
